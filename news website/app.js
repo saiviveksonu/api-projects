@@ -1,4 +1,4 @@
-console.log("This is my index js file");
+
 
 // Initialize the news api parameters
 let source = 'the-times-of-india';
